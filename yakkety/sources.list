@@ -1,0 +1,16 @@
+deb http://ftp.daumkakao.com/ubuntu/ yakkety main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety main restricted
+
+deb http://ftp.daumkakao.com/ubuntu/ yakkety-updates main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety-updates main restricted
+
+deb http://ftp.daumkakao.com/ubuntu/ yakkety universe
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety universe
+deb http://ftp.daumkakao.com/ubuntu/ yakkety-updates universe
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety-updates universe
+
+
+deb http://ftp.daumkakao.com/ubuntu/ yakkety-security main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety-security main restricted
+deb http://ftp.daumkakao.com/ubuntu/ yakkety-security universe
+deb-src http://ftp.daumkakao.com/ubuntu/ yakkety-security universe

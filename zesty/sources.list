@@ -1,0 +1,16 @@
+deb http://ftp.daumkakao.com/ubuntu/ zesty main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty main restricted
+
+deb http://ftp.daumkakao.com/ubuntu/ zesty-updates main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty-updates main restricted
+
+deb http://ftp.daumkakao.com/ubuntu/ zesty universe
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty universe
+deb http://ftp.daumkakao.com/ubuntu/ zesty-updates universe
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty-updates universe
+
+
+deb http://ftp.daumkakao.com/ubuntu/ zesty-security main restricted
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty-security main restricted
+deb http://ftp.daumkakao.com/ubuntu/ zesty-security universe
+deb-src http://ftp.daumkakao.com/ubuntu/ zesty-security universe
